@@ -1,4 +1,4 @@
-FFROM python:3.8 #mess this up!
+FROM python:3.8 #mess this up!
 
 COPY ./requirements.txt /webapp/requirements.txt
 
